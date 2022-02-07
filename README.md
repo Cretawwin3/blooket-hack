@@ -25,6 +25,6 @@ https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-
 3. Delete everything in the url box
 4. Type `javascript:`
 5. Paste in the code
-6. Done
+6. Click Save and Done
 
 https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
