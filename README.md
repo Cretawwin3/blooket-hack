@@ -2,7 +2,7 @@
 
 All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixzzy/blooket-hack/issues).
 
-If you are a programmer and want to make your own hacks for blooket make sure to check out the [blooket wrapper](https://github.com/glixzzy/blooket-wrapper).
+If you are a programmer and want to make your own hacks for blooket make sure to check out the https://github.com/Cretawwin3/blooket-hack
 
 **blooket hacks are located at https://schoolcheats.net/blooket**
 
@@ -25,5 +25,6 @@ https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-
 3. Delete everything in the url box
 4. Type `javascript:`
 5. Paste in the code
+6. Done
 
 https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
