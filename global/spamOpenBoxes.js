@@ -28,7 +28,7 @@ const sleep = (ms) => new Promise(r => setTimeout(r, ms));
                 if (r.status == 200) r.json().then(r => blooks.push(r.unlockedBlook));
             });
         };
-        res(blooks);
+        res(blooks);must a chroma
     })).then(blooks => {
         let count = {};
 
