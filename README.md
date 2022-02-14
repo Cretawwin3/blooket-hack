@@ -48,4 +48,5 @@ Blooket is now banning people who are using hacks.
 ## PoC
 ![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
 ![image](https://user-images.githubusercontent.com/73669084/148287302-8693c202-6968-4cf3-811f-05cbd0fd8b2f.png)
-file:///C:/Users/user/Videos/Captures/Login%20_%20Blooket%20-%20Google%20Chrome%2014_02_2022%203_43_59%20CH.png
+file:///C:/Users/user/Videos/Captures/Login%20_%20Blooket%20-%20Google%20Chrome%2014_02_2022%203_43_59%20CH.png please copy this link and paste at new tab chrome
+Oh no! My account got banned
