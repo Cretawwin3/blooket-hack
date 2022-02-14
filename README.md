@@ -1,9 +1,3 @@
-# Support discord server: https://glizzers.xyz/discord
-
-# The Blooket Hack
-
-**The Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
-
 Why you should use this tool:
 - Always working.
 - When the hacks break it usually gets fixed in about 6-8 hours.
