@@ -26,3 +26,4 @@ https://schoolcheats.net/blooket
 
 New scripts are at:
 https://schoolcheats.net/blooket
+And we got a new cheat!
