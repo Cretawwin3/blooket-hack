@@ -8,6 +8,7 @@ This cheat only works in factory game mode!
 
 ### Get the script from :
 Open console = ctrl + shift + j
+ 
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-cheat/main/factory/getCash.js").then((res) => res.text().then((t) => eval(t)))
 
 New scripts are at:
